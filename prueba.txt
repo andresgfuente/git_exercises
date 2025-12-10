@@ -10,3 +10,5 @@ segundo cambio en bugfix, necesito mandar a main
 
 
 agregar nuevo cambio a nuevo bugfix
+
+segundo cambio en nuevo buug
