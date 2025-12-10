@@ -2,3 +2,5 @@ this is my first repo
 
 este es  cambio y commit
 y este el tercero
+
+estoy en bugfix, cambiar main
